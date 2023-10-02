@@ -1,0 +1,36 @@
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.deps.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.AssemblyReference.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfoInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.CoreCompileInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/refint/Barber.Domain.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.pdb
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/ref/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.deps.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfoInputs.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfo.cs
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/refint/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/ref/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.AssemblyReference.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.deps.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/bin/Debug/net7.0/Barber.Domain.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.AssemblyReference.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfoInputs.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.AssemblyInfo.cs
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.csproj.CoreCompileInputs.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/refint/Barber.Domain.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/ref/Barber.Domain.dll

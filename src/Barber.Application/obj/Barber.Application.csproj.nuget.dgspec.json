@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj",
+        "projectName": "Barber.Application",
+        "projectPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj",
+        "packagesPath": "/Users/rafaelpavao/.nuget/packages/",
+        "outputPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelpavao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj": {
+                "projectPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj",
+        "projectName": "Barber.Domain",
+        "projectPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj",
+        "packagesPath": "/Users/rafaelpavao/.nuget/packages/",
+        "outputPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafaelpavao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,253 @@
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Barber.Api.exe
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Barber.Api.deps.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Barber.Api.runtimeconfig.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Barber.Api.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.AssemblyReference.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfoInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CoreCompileInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.Barber.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/scopedcss/bundle/Barber.Api.styles.css
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CopyComplete
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/refint/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/Barber.Api.genruntimeconfig.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/obj/Debug/net7.0/ref/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Humanizer.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/MediatR.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi/src/Barber.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Barber.Api.exe
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Barber.Api.deps.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Barber.Api.runtimeconfig.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Barber.Api.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Humanizer.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/MediatR.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.AssemblyReference.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfoInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CoreCompileInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.Barber.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/scopedcss/bundle/Barber.Api.styles.css
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CopyComplete
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/refint/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/Barber.Api.genruntimeconfig.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApiBackup/src/Barber.Api/obj/Debug/net7.0/ref/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.exe
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.deps.json
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.runtimeconfig.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/MediatR.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.pdb
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.AssemblyReference.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfoInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CoreCompileInputs.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.Barber.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Barber.Api.props
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/scopedcss/bundle/Barber.Api.styles.css
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CopyComplete
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/refint/Barber.Api.dll
+C:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.pdb
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.genruntimeconfig.cache
+c:/Users/guima/OneDrive/Área de Trabalho/Allog/Aulas Jackson/BarberShop/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/ref/Barber.Api.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.exe
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.deps.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.runtimeconfig.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/MediatR.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.AssemblyReference.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfoInputs.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfo.cs
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CoreCompileInputs.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.Barber.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Barber.Api.props
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Barber.Api.props
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Barber.Api.props
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/scopedcss/bundle/Barber.Api.styles.css
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CopyComplete
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/refint/Barber.Api.dll
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.pdb
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.genruntimeconfig.cache
+C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Api/obj/Debug/net7.0/ref/Barber.Api.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/appsettings.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Api
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.deps.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.runtimeconfig.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Api.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/FluentValidation.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/MediatR.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Npgsql.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Application.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Persistence.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/bin/Debug/net7.0/Barber.Domain.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.AssemblyReference.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfoInputs.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.AssemblyInfo.cs
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CoreCompileInputs.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.Barber.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Barber.Api.props
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Barber.Api.props
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Barber.Api.props
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/scopedcss/bundle/Barber.Api.styles.css
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.csproj.CopyComplete
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/refint/Barber.Api.dll
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.pdb
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/Barber.Api.genruntimeconfig.cache
+/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Api/obj/Debug/net7.0/ref/Barber.Api.dll

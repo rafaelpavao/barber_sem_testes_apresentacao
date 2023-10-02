@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CG+MNa8Ry9QoDdI+6ZrO2lzjaVto8nUpTfQbaMmMzoiUGUJpJZ3/MFOoby9BIa5xwufHcZJDc1CXQ9M5UF80A==",
+  "success": true,
+  "projectFilePath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafaelpavao/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
