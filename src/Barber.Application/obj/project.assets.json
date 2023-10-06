@@ -429,32 +429,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/rafaelpavao/.nuget/packages/": {}
+    "C:\\Users\\Pavão\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj",
       "projectName": "Barber.Application",
-      "projectPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/Barber.Application.csproj",
-      "packagesPath": "/Users/rafaelpavao/.nuget/packages/",
-      "outputPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Application/obj/",
+      "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj",
+      "packagesPath": "C:\\Users\\Pavão\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rafaelpavao/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Pavão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj": {
-              "projectPath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj"
+            "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj": {
+              "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj"
             }
           }
         }
@@ -498,7 +500,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,52 @@
+using FluentAssertions;
+using Xunit.Abstractions;
+
+namespace Barber.Domain.Tests.Entities.Customers
+{
+    
+    public class CustomerFluentAssertionsTests : IClassFixture<CustomerTestsFixture>
+    {
+        private readonly CustomerTestsFixture _customerTestsFixture;
+        readonly ITestOutputHelper _outputHelper;
+
+        public CustomerFluentAssertionsTests(CustomerTestsFixture customerTestsFixture, 
+                                            ITestOutputHelper outputHelper)
+        {
+            _customerTestsFixture = customerTestsFixture;
+            _outputHelper = outputHelper;
+        }
+        
+
+        [Fact(DisplayName = "New Valid Customer")]
+        [Trait("Category", "Customer Tests")]
+        public void IsValid_WhenCustomerIsValid_ShouldReturnTrueAndHaveNoErrors()
+        {
+            // Arrange
+            var customer = _customerTestsFixture.GenerateValidCustomer();
+
+            // Act
+            var result = customer.IsValid();
+
+            // Assert 
+            result.Should().BeTrue();
+            customer.ValidationResult.Errors.Should().HaveCount(0);
+        }
+
+        [Fact(DisplayName = "New Invalid Customer")]
+        [Trait("Category", "Customer Tests")]
+        public void IsValid_WhenCustomerIsNotOfAge_ShouldReturnFalseAndHaveErrors()
+        {
+            // Arrange
+            var customer = _customerTestsFixture.GenerateInvalidCustomer();
+
+            // Act
+            var result = customer.IsValid();
+
+            // Assert 
+            result.Should().BeFalse();
+            customer.ValidationResult.Errors.Should().HaveCountGreaterOrEqualTo(1, "deve possuir erros de validação");
+
+            _outputHelper.WriteLine($"Error found: {customer.ValidationResult.Errors.FirstOrDefault().ErrorMessage}");
+        }
+    }
+}

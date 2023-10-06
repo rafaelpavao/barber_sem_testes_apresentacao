@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\Tests\\UnitTests\\Barber.Persistence.Tests\\Barber.Persistence.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj",
+        "projectName": "Barber.Application",
+        "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj",
+        "packagesPath": "C:\\Users\\Pavão\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj",
+        "projectName": "Barber.Domain",
+        "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pavão\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\Barber.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\Barber.Persistence.csproj",
+        "projectName": "Barber.Persistence",
+        "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\Barber.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Pavão\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj": {
+                "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Application\\Barber.Application.csproj"
+              },
+              "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\Tests\\UnitTests\\Barber.Persistence.Tests\\Barber.Persistence.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\Tests\\UnitTests\\Barber.Persistence.Tests\\Barber.Persistence.Tests.csproj",
+        "projectName": "Barber.Persistence.Tests",
+        "projectPath": "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\Tests\\UnitTests\\Barber.Persistence.Tests\\Barber.Persistence.Tests.csproj",
+        "packagesPath": "C:\\Users\\Pavão\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\Tests\\UnitTests\\Barber.Persistence.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj"
+              },
+              "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\Barber.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Pavão\\source\\repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Persistence\\Barber.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq.AutoMock": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

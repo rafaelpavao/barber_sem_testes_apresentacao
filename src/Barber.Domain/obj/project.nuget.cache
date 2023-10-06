@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/CG+MNa8Ry9QoDdI+6ZrO2lzjaVto8nUpTfQbaMmMzoiUGUJpJZ3/MFOoby9BIa5xwufHcZJDc1CXQ9M5UF80A==",
+  "dgSpecHash": "YdjTSXT2qP6B9yH66gH9QnYtjx5Rw9d9FusSbePhMngOiwu6nQARen456q+Clpm13wid774Wt5FfvQv/YSwdYw==",
   "success": true,
-  "projectFilePath": "/Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/Barber.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Pavão\\Source\\Repos\\rafaelpavao\\barber_sem_testes_apresentacao\\src\\Barber.Domain\\Barber.Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/rafaelpavao/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512"
+    "C:\\Users\\Pavão\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
   ],
   "logs": []
 }
