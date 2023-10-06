@@ -34,3 +34,15 @@ C:/Users/Pavão/Desktop/BarberApiCA/BarberApi CA/src/Barber.Domain/obj/Debug/net
 /Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/refint/Barber.Domain.dll
 /Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/Barber.Domain.pdb
 /Users/rafaelpavao/Downloads/BarberApiCA2/BarberApiCA/src/Barber.Domain/obj/Debug/net7.0/ref/Barber.Domain.dll
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\bin\Debug\net7.0\Barber.Domain.deps.json
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\bin\Debug\net7.0\Barber.Domain.dll
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\bin\Debug\net7.0\Barber.Domain.pdb
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.csproj.AssemblyReference.cache
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.AssemblyInfoInputs.cache
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.AssemblyInfo.cs
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.dll
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\refint\Barber.Domain.dll
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\Barber.Domain.pdb
+C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\src\Barber.Domain\obj\Debug\net7.0\ref\Barber.Domain.dll

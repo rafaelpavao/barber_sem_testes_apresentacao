@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Barber.Api.Tests
-build_property.ProjectDir = C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Api.Tests\
+build_property.ProjectDir = C:\Users\Pavão\Source\Repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Api.Tests\

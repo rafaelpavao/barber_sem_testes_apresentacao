@@ -667,3 +667,12 @@ C:\Users\Pavão\Documents\1WS\sync\WS\ALLOG\unit_tests_research\BarberApiCA\Barb
 C:\Users\Pavão\Documents\1WS\sync\WS\ALLOG\unit_tests_research\BarberApiCA\BarberApiWithTests\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.pdb
 C:\Users\Pavão\Documents\1WS\sync\WS\ALLOG\unit_tests_research\BarberApiCA\BarberApiWithTests\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.genruntimeconfig.cache
 C:\Users\Pavão\Documents\1WS\sync\WS\ALLOG\unit_tests_research\BarberApiCA\BarberApiWithTests\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\ref\Barber.Application.Tests.dll
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.csproj.AssemblyReference.cache
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.AssemblyInfo.cs
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.dll
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\refint\Barber.Application.Tests.dll
+C:\Users\Pavão\source\repos\rafaelpavao\barber_sem_testes_apresentacao\Tests\UnitTests\Barber.Application.Tests\obj\Debug\net7.0\Barber.Application.Tests.pdb
